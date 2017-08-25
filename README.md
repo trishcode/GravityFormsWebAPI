@@ -4,6 +4,3 @@ Swift 3 example using the Gravity Forms Web API to read entries over HTTP follow
 Additional required project settings as configured in the project:
 Build Settings: Swift Complier - General, Objective-C Bridging Header
 Info: Custom iOS Target Properties, App Transport Security Settings
-
-
-
